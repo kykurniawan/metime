@@ -1,0 +1,19 @@
+{
+    "name": "kykurniawan/metime",
+    "description": "Metime PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kykurniawan\\Metime\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kykurniawan",
+            "email": "contact.rizkykurniawan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
