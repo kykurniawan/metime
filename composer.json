@@ -2,6 +2,11 @@
     "name": "kykurniawan/metime",
     "description": "Metime PHP",
     "type": "library",
+    "keywords": [
+        "http",
+        "web"
+    ],
+    "homepage": "https://github.com/kykurniawan/metime",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -11,7 +16,25 @@
     "authors": [
         {
             "name": "kykurniawan",
-            "email": "contact.rizkykurniawan@gmail.com"
+            "email": "contact.rizkykurniawan@gmail.com",
+            "homepage": "https://www.rizkykurniawan.id",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/kykurniawan/metime/issues",
+        "wiki": "https://github.com/kykurniawan/metime/wiki",
+        "docs": "https://github.com/kykurniawan/metime",
+        "source": "https://github.com/kykurniawan/metime"
+    },
+    "funding": [
+        {
+            "type": "Saweria",
+            "url": "https://saweria.co/kykurniawan"
+        },
+        {
+            "type": "Trakteer",
+            "url": "https://trakteer.id/kykurniawan"
         }
     ],
     "minimum-stability": "stable",
